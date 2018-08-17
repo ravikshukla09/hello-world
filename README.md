@@ -3,4 +3,4 @@ Learning Github
 
 Hi,
 
-Just learning about github and software engineering in general.
+Just learning about github.
